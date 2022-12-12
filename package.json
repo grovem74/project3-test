@@ -7,7 +7,7 @@
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "axios": "^0.19.2",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "if-env": "^1.0.4",
     "materialize-css": "^1.0.0-rc.2",
     "react-materialize": "^3.8.10",
